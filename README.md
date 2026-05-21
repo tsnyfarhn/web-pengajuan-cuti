@@ -27,19 +27,19 @@
 ## Setup
 
 ### Frontend (React)
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 ### Backend (.NET)
-cd backend
-dotnet run
+- cd backend
+- dotnet run
 
 ## Endpoint
 
-GET    /api/Izin
-GET    /api/Izin/{id}
-GET    /api/Izin/minimum-tanggal
-POST   /api/Izin
-PUT    /api/Izin/{id}
-DELETE /api/Izin/{id}
+- GET    /api/Izin
+- GET    /api/Izin/{id}
+- GET    /api/Izin/minimum-tanggal
+- POST   /api/Izin
+- PUT    /api/Izin/{id}
+- DELETE /api/Izin/{id}
