@@ -1,0 +1,188 @@
+[
+  {
+    "Id": 1,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-05-01",
+    "TanggalMasuk": "2026-05-02"
+  },
+  {
+    "Id": 2,
+    "Jenis": "Izin Sakit",
+    "TanggalIzin": "2026-05-03",
+    "TanggalMasuk": "2026-05-04"
+  },
+  {
+    "Id": 3,
+    "Jenis": "Sakit",
+    "TanggalIzin": "2026-05-05",
+    "TanggalMasuk": "2026-05-06"
+  },
+  {
+    "Id": 4,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-05-07",
+    "TanggalMasuk": "2026-05-08"
+  },
+  {
+    "Id": 5,
+    "Jenis": "Izin Pribadi",
+    "TanggalIzin": "2026-05-09",
+    "TanggalMasuk": "2026-05-10"
+  },
+  {
+    "Id": 6,
+    "Jenis": "Izin Sakit",
+    "TanggalIzin": "2026-05-11",
+    "TanggalMasuk": "2026-05-12"
+  },
+  {
+    "Id": 7,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-05-13",
+    "TanggalMasuk": "2026-05-14"
+  },
+  {
+    "Id": 8,
+    "Jenis": "Sakit",
+    "TanggalIzin": "2026-05-15",
+    "TanggalMasuk": "2026-05-16"
+  },
+  {
+    "Id": 9,
+    "Jenis": "Izin Pribadi",
+    "TanggalIzin": "2026-05-17",
+    "TanggalMasuk": "2026-05-18"
+  },
+  {
+    "Id": 10,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-05-19",
+    "TanggalMasuk": "2026-05-20"
+  },
+  {
+    "Id": 11,
+    "Jenis": "Izin Sakit",
+    "TanggalIzin": "2026-05-21",
+    "TanggalMasuk": "2026-05-22"
+  },
+  {
+    "Id": 12,
+    "Jenis": "Sakit",
+    "TanggalIzin": "2026-05-23",
+    "TanggalMasuk": "2026-05-24"
+  },
+  {
+    "Id": 13,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-05-25",
+    "TanggalMasuk": "2026-05-26"
+  },
+  {
+    "Id": 14,
+    "Jenis": "Izin Pribadi",
+    "TanggalIzin": "2026-05-27",
+    "TanggalMasuk": "2026-05-28"
+  },
+  {
+    "Id": 15,
+    "Jenis": "Izin Sakit",
+    "TanggalIzin": "2026-05-29",
+    "TanggalMasuk": "2026-05-30"
+  },
+  {
+    "Id": 16,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-06-01",
+    "TanggalMasuk": "2026-06-02"
+  },
+  {
+    "Id": 17,
+    "Jenis": "Sakit",
+    "TanggalIzin": "2026-06-03",
+    "TanggalMasuk": "2026-06-04"
+  },
+  {
+    "Id": 18,
+    "Jenis": "Izin Pribadi",
+    "TanggalIzin": "2026-06-05",
+    "TanggalMasuk": "2026-06-06"
+  },
+  {
+    "Id": 19,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-06-07",
+    "TanggalMasuk": "2026-06-08"
+  },
+  {
+    "Id": 20,
+    "Jenis": "Izin Sakit",
+    "TanggalIzin": "2026-06-09",
+    "TanggalMasuk": "2026-06-10"
+  },
+  {
+    "Id": 21,
+    "Jenis": "Sakit",
+    "TanggalIzin": "2026-06-11",
+    "TanggalMasuk": "2026-06-12"
+  },
+  {
+    "Id": 22,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-06-13",
+    "TanggalMasuk": "2026-06-14"
+  },
+  {
+    "Id": 23,
+    "Jenis": "Izin Pribadi",
+    "TanggalIzin": "2026-06-15",
+    "TanggalMasuk": "2026-06-16"
+  },
+  {
+    "Id": 24,
+    "Jenis": "Izin Sakit",
+    "TanggalIzin": "2026-06-17",
+    "TanggalMasuk": "2026-06-18"
+  },
+  {
+    "Id": 25,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-06-19",
+    "TanggalMasuk": "2026-06-20"
+  },
+  {
+    "Id": 26,
+    "Jenis": "Sakit",
+    "TanggalIzin": "2026-06-21",
+    "TanggalMasuk": "2026-06-22"
+  },
+  {
+    "Id": 27,
+    "Jenis": "Izin Pribadi",
+    "TanggalIzin": "2026-06-23",
+    "TanggalMasuk": "2026-06-24"
+  },
+  {
+    "Id": 28,
+    "Jenis": "Cuti Tahunan",
+    "TanggalIzin": "2026-06-25",
+    "TanggalMasuk": "2026-06-26"
+  },
+  {
+    "Id": 29,
+    "Jenis": "Izin Sakit",
+    "TanggalIzin": "2026-06-27",
+    "TanggalMasuk": "2026-06-28"
+  },
+  {
+    "Id": 30,
+    "Jenis": "Sakit",
+    "TanggalIzin": "2026-06-29",
+    "TanggalMasuk": "2026-06-30"
+  },
+  {
+    "Id": 31,
+    "Jenis": "Cuti Bersama",
+    "TanggalIzin": "2026-05-26",
+    "TanggalMasuk": "2026-05-29"
+  }
+]

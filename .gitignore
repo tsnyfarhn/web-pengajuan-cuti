@@ -1,0 +1,18 @@
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/vite-dev.log
+frontend/vite-dev.err
+
+# .NET
+backend/bin/
+backend/obj/
+
+# Environment
+frontend/.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
