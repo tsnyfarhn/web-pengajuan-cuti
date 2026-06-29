@@ -1,6 +1,7 @@
 # Web Pengajuan Cuti
 Leave Application Form is a web-based leave management application developed using React.js and Tailwind CSS for the frontend, C# and .NET 8 for the backend, with JSON used for data storage. The application enables users to submit leave requests and track their leave history, including the total number of leave applications they have submitted.
-<p></p>
+
+## Mock Up
 <img src="https://github.com/user-attachments/assets/fbad94e1-f44f-491e-a05d-1378400ca483" width="600" />
 
 ## Main Page
